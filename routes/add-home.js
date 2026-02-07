@@ -1,5 +1,5 @@
 const express = require('express');
-const addHome = express.Router(); //const app = express();
+const addHome = express.Router();
 
 //addHome er moddhe route gula thakbe. addHome ke export krbo. app.js e import krbo.
 
